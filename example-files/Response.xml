@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="http://fullcrudoperations.com/courses"
+xsi:schemaLocation="http://fullcrudoperations.com/courses course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+>
+<CourseDetails>
+<id>123</id>
+<name>Spring framework</name>
+<description>we will learn spring framework basics</description>
+</CourseDetails>
+
+</GetCourseDetailsResponse>
